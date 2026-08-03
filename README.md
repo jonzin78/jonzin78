@@ -17,30 +17,37 @@ Creating modern, responsive, and interactive web experiences through clean code 
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/catsnack.gif" width="280" margin="30px" alt="Developer Illustration"/>
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-**八木ジョナタン**です。  
+**八木ジョナタン**です。
 
 トライデントコンピュータ専門学校のWebデザイン学科でWeb制作を学んでいる学生です。
 
-HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド開発に取り組んでいます。  
+HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド開発に取り組んでいます。
 
 デザインとプログラミングの両方に興味があり、見た目の美しさだけではなく、ユーザーにとって使いやすく、快適なWebサイトを作ることを大切にしています。
 
-現在は、React.js、Next.js、TypeScript、Three.jsなどの技術を学びながら、  
-
-インタラクティブなWebサイト制作や、より高度なWeb表現にも挑戦しています。
+現在は、React.js、Next.js、TypeScript、Three.jsなどの技術を学びながら、インタラクティブなWebサイト制作や、より高度なWeb表現にも挑戦しています。
 
 これまでに、企業やサービスをイメージしたWebサイト制作、WordPressを使用したブログ制作、APIを利用したWebアプリケーション制作など、さまざまな制作経験を積んできました。
 
-分からないことをそのままにせず、自分で調べ、試行錯誤しながら解決することを大切にしています。  
+分からないことをそのままにせず、自分で調べ、試行錯誤しながら解決することを大切にしています。
 
 新しい技術を学ぶことが好きで、常に成長し続ける姿勢を持って制作に取り組んでいます。
 
-将来は、デザインの知識とプログラミング技術を活かし、  
+将来は、デザインの知識とプログラミング技術を活かし、ユーザーに良い体験を提供できるWebエンジニアを目指しています。
 
-ユーザーに良い体験を提供できるWebエンジニアを目指しています。
-<br clear="right"/>
+</td>
+
+<td width="32%" align="center" valign="middle">
+
+<img src="./assets/bh.gif" width="280" alt="Developer Illustration"/>
+
+</td>
+</tr>
+</table>
 
  <h2 align="center">🤝 Connect</h2>
 
