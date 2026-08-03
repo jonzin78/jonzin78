@@ -15,18 +15,52 @@ Building reliable backend systems with clean architecture and scalable solutions
 </p>
 
 
-##  <h2 align="center">🚀 About Me </h2>
+## <h2 align="center">🚀 About Me</h2>
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+# 🇯🇵 日本語
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+**八木ジョナタン**です。  
+トライデントコンピュータ専門学校のWebデザイン学科でWeb制作を学んでいる学生です。
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド開発に取り組んでいます。
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+現在は、React.js、Next.js、TypeScript、Three.jsなどの技術を学びながら、  
+デザインとプログラミングを組み合わせた、ユーザーにとって使いやすいWebサイト制作を目指しています。
 
+分からないことをそのままにせず、自分で調べて解決することを大切にしています。  
+将来は、技術力とデザイン力を持ったWebエンジニアとして成長していきたいです。
+
+
+---
+
+# 🇺🇸 English
+
+**I'm Jonathan Yagi**, a Web Design student at Trident Computer Vocational School in Japan.
+
+I focus on web development, working mainly with **HTML, CSS, and JavaScript** to create modern and user-friendly websites.
+
+Currently, I'm learning technologies such as **React.js, Next.js, TypeScript, and Three.js**, while improving my skills in both design and programming.
+
+I enjoy solving problems, learning new technologies, and creating web experiences that combine creativity and functionality.
+
+My goal is to become a Web Engineer who can build high-quality digital experiences through both technical skills and design.
+
+
+---
+
+# 🇧🇷 Português
+
+**Eu sou Jonathan Yagi**, estudante de Web Design na Trident Computer Vocational School, no Japão.
+
+Tenho foco no desenvolvimento web, trabalhando principalmente com **HTML, CSS e JavaScript** para criar sites modernos e fáceis de usar.
+
+Atualmente estou estudando tecnologias como **React.js, Next.js, TypeScript e Three.js**, aprimorando minhas habilidades em programação e design.
+
+Gosto de aprender novas tecnologias, resolver problemas e criar experiências digitais que unem criatividade e funcionalidade.
+
+Meu objetivo é me tornar um Web Engineer capaz de desenvolver projetos de alta qualidade utilizando tanto conhecimentos técnicos quanto de design.
 <br clear="right"/>
 
  <h2 align="center">🤝 Connect</h2>
