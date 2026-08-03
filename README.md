@@ -1,385 +1,105 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/ascihand-removebg-preview.pn" alt="Banner" width="100%">
+</p>
 
-# 👨🏻‍💻 八木 ジョナタン
+<h1 align="center">Hi 👋, Imma Shady</h1>
 
-**`Web Developer`**
-
-</div>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <a href="README.en.md">
-    🇺🇸 English
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+</p>
+
+<p align="center">
+Building reliable backend systems with clean architecture and scalable solutions.
+</p>
+
+
+##  <h2 align="center">🚀 About Me </h2>
+
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+
+**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+
+I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+
+Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+
+<br clear="right"/>
+
+ <h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/midnightshady">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
-  |
-  <a href="README.pt.md">
-    🇧🇷 Português
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kaifqureshi3672@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
----
+<h2 align="center">💻 Tech Stack</h2>
 
-こんにちは、八木ジョナタンです。
-
-日本のトライデントコンピュータ専門学校で
-Webデザイン学科を専攻している学生です。
-
-HTML / CSS / JavaScriptを中心に、
-ReactやNext.jsを使用したWeb制作に取り組んでいます。
-
-デザインとプログラミングの両方に興味があり、
-ユーザーにとって使いやすく、印象に残るWebサイト制作を目指しています。
-
-プログラミングとの出会いは、Pinterestで偶然見かけた
-Web制作やデザインに関する投稿がきっかけでした。
-
-最初は何気ない興味でしたが、HTMLやCSSについて調べていく中で、
-「自分でWebサイトを作る」ということに魅力を感じ、
-本格的にプログラミングを学び始めました。
-
-現在はWeb制作を中心に、
-フロントエンドだけではなく、Web開発全体に関わる知識を身につけるため、
-日々新しい技術を学んでいます。
-
----
-
-<p align="left">
-
-<a href="https://github.com/jonzin78?tab=repositories">
-<img 
-alt="GitHub repositories"
-title="GitHub Repositories"
-src="https://custom-icon-badges.demolab.com/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
-</a>
-
-<a href="https://github.com/jonzin78?tab=followers">
-<img 
-alt="Followers"
-title="GitHub Followers"
-src="https://custom-icon-badges.demolab.com/github/followers/jonzin78?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-/>
-</a>
-
-<a href="https://github.com/jonzin78?tab=repositories&sort=stargazers">
-<img 
-alt="Stars"
-title="GitHub Stars"
-src="https://custom-icon-badges.demolab.com/github/stars/jonzin78?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-/>
-</a>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
 </p>
 
-
----
-
-### 🤖 技術スタック
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Next.js"
-    title="Next.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP"
-    title="PHP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Sass"
-    title="SCSS / Sass" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="WordPress"
-    title="WordPress" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Illustrator"
-    title="Illustrator" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-### ⚙️ 使用した技術・ツール
-
-```text
-Frontend
-├── HTML
-├── CSS / SCSS
-├── JavaScript
-├── TypeScript
-├── React
-├── Next.js
-├── GSAP
-├── Three.js
-└── React Three Fiber
-
-CMS
-├── WordPress
-└── microCMS
-
-Tools
-├── Git / GitHub
-├── VS Code
-├── Figma
-├── Illustrator
-├── Photoshop
-├── MAMP
-├── npm
-├── Blender
-├── Firebase
-└── AI Tools
-
-
-
----
-
-### 📊 GitHub 統計
-
-<p>
-<img 
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=jonzin78&show_icons=true&theme=tokyonight&include_all_commits=true&locale=ja"
- />
-
-<img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonzin78&layout=compact&theme=tokyonight&locale=ja"
-/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-
-### 📈 GitHub Activity
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=jonzin78&theme=tokyo-night"
-/>
-
----
-
-### 📂 制作したプロジェクト
-
-#### 🏍️ Kawasaki Ninja H2 Concept Website
-
-3Dモデルを使用したインタラクティブなWebサイト制作。
-
-スクロールに合わせてバイクが動く演出や、
-3D表現を取り入れた高級感のあるデザインを目指しました。
-
-使用技術:
-
-- React
-- React Three Fiber
-- Three.js
-- GSAP
-- JavaScript
-
-
----
-
-#### ⛪ Church Website
-
-教会向けのWebサイト制作。
-
-ユーザーが情報を見つけやすいように、
-スマートフォンファーストを意識したデザインを制作しました。
-
-使用技術:
-
-- HTML
-- CSS
-- JavaScript
-- microCMS
-- Google Calendar API
-
-
----
-
-#### 📝 Original Blog Website
-
-WordPressを使用したオリジナルブログ制作。
-
-記事管理やWebサイト運営について学びました。
-
-使用技術:
-
-- WordPress
-- PHP
-- CSS
-- MAMP
-
-
----
-
-### 💡 開発者としての強み
-
-- 🔍 好奇心を持って新しいことを学ぶ
-- 📚 分からないことを調べて解決する
-- 👥 チームで協力して制作する
-- 🚀 新しい技術に挑戦する
-
----
-
-### 📈 改善したいこと
-
-現在は、
-
-- 日本語でのコミュニケーション力
-- Web開発の幅広い知識
-- Backend / Server技術
-
-をさらに伸ばしています。
-
----
-
-### 🎯 目標
-
-Web制作だけではなく、
-Frontend・Backendの両方を理解し、
-幅広い知識を持つWeb Developerになることが目標です。
-
-将来的には大きなプロジェクトや、
-多くの人に利用されるサービス開発に関わりたいと考えています。
-
----
-
-### ❤️ プログラミング以外の趣味
-
-- 🎮 ゲーム
-- 🏀 スポーツ
-- 🚶 散歩
-- ✏️ 絵を描くこと
-- 🎴 ポケモンカード
-- 👕 ファッションを見ること
-- 📺 YouTubeを見ること
-
----
-
-### 🌱 最後に
-
-GitHubでは、
-自分が学んできたことや制作した作品を通して、
-自分の成長や価値を伝えたいと思っています。
-
-ただコードを公開するだけではなく、
-
-「この人は何を考えて作ったのか」
-「どんなことに挑戦しているのか」
-
-が伝わるプロフィールを目指しています。
-
-これからも新しい技術に挑戦しながら、
-成長し続けるWeb Developerを目指します。
-
----
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-⭐ Thanks for visiting my GitHub ⭐
+<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
 </div>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
+
+### 
+<h2 align="center">⌘ Commit Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
