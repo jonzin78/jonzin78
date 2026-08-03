@@ -49,22 +49,21 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 </tr>
 </table>
 
- <h2 align="center">🤝 Connect</h2>
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/midnightshady">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <a href="https://github.com/jonzin78" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+
+  <a href="https://www.instagram.com/jon.c0de?igsh=MW8xNmVqaHNjbHo3ZA%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kaifqureshi3672@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+
+  <a href="mailto:jonathannyaguii@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email" />
   </a>
 </p>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
