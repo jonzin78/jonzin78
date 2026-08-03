@@ -17,7 +17,7 @@ Creating modern, responsive, and interactive web experiences through clean code 
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/catsnack.gif" width="300" alt="Developer Illustration"/>
+<img align="right" src="./assets/catsnack.gif" width="300" margin="30px" alt="Developer Illustration"/>
 
 **八木ジョナタン**です。  
 
