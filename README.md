@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/HumanAndGod.jpeg" alt="Banner" width="100%">
+  <img src="./assets/handd.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, Imma Shady</h1>
