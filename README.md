@@ -15,52 +15,65 @@ Building reliable backend systems with clean architecture and scalable solutions
 </p>
 
 
-## <h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <a href="#日本語">🇯🇵 日本語</a>
+  |
+  <a href="#english">🇺🇸 English</a>
+  |
+  <a href="#português">🇧🇷 Português</a>
+</p>
+
+<br>
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-# 🇯🇵 日本語
+
+## 🇯🇵 日本語
 
 **八木ジョナタン**です。  
 トライデントコンピュータ専門学校のWebデザイン学科でWeb制作を学んでいる学生です。
 
 HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド開発に取り組んでいます。
 
-現在は、React.js、Next.js、TypeScript、Three.jsなどの技術を学びながら、  
-デザインとプログラミングを組み合わせた、ユーザーにとって使いやすいWebサイト制作を目指しています。
+現在は、React.js、Next.js、TypeScript、Three.jsなどの技術を学びながら、
+デザインとプログラミングを組み合わせたWeb制作を目指しています。
 
-分からないことをそのままにせず、自分で調べて解決することを大切にしています。  
-将来は、技術力とデザイン力を持ったWebエンジニアとして成長していきたいです。
+分からないことをそのままにせず、自分で調べて解決することを大切にしています。
+
+将来は、技術力とデザイン力を活かして、
+ユーザーに良い体験を届けられるWeb Engineerを目指しています。
 
 
----
+<br>
 
-# 🇺🇸 English
+## 🇺🇸 English
 
 **I'm Jonathan Yagi**, a Web Design student at Trident Computer Vocational School in Japan.
 
-I focus on web development, working mainly with **HTML, CSS, and JavaScript** to create modern and user-friendly websites.
+I focus on web development, mainly using **HTML, CSS, and JavaScript** to create modern and user-friendly websites.
 
-Currently, I'm learning technologies such as **React.js, Next.js, TypeScript, and Three.js**, while improving my skills in both design and programming.
+Currently, I'm learning technologies such as **React.js, Next.js, TypeScript, and Three.js**, while improving both my programming and design skills.
 
-I enjoy solving problems, learning new technologies, and creating web experiences that combine creativity and functionality.
+I enjoy learning new technologies, solving problems, and creating digital experiences that combine creativity and functionality.
 
-My goal is to become a Web Engineer who can build high-quality digital experiences through both technical skills and design.
+My goal is to become a Web Engineer who can build high-quality websites and applications.
 
 
----
+<br>
 
-# 🇧🇷 Português
+## 🇧🇷 Português
 
 **Eu sou Jonathan Yagi**, estudante de Web Design na Trident Computer Vocational School, no Japão.
 
-Tenho foco no desenvolvimento web, trabalhando principalmente com **HTML, CSS e JavaScript** para criar sites modernos e fáceis de usar.
+Tenho foco no desenvolvimento web, utilizando principalmente **HTML, CSS e JavaScript** para criar sites modernos e fáceis de usar.
 
 Atualmente estou estudando tecnologias como **React.js, Next.js, TypeScript e Three.js**, aprimorando minhas habilidades em programação e design.
 
 Gosto de aprender novas tecnologias, resolver problemas e criar experiências digitais que unem criatividade e funcionalidade.
 
-Meu objetivo é me tornar um Web Engineer capaz de desenvolver projetos de alta qualidade utilizando tanto conhecimentos técnicos quanto de design.
+Meu objetivo é me tornar um Web Engineer capaz de criar projetos de alta qualidade.
 <br clear="right"/>
 
  <h2 align="center">🤝 Connect</h2>
