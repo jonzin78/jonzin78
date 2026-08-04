@@ -69,14 +69,14 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+<img src="https://streak-stats.demolab.com?user=jonzin78&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
 </div>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonzin78&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16"/>
 </p>
 
 ### 
@@ -92,6 +92,8 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 <p align="center">
   <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
 </p>
+
+
 
 <h2 align="center">⌘ Philosophy</h2>
 
