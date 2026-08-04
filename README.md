@@ -83,7 +83,7 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 <h2 align="center">⌘ Commit Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonzin78/jonzin78/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/ef4444/jonzin78" />
 </p>
 
 <h2 align="center">⌘ Philosophy</h2>
