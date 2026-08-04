@@ -46,24 +46,113 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 
 <h2 align="center">🤝 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://github.com/jonzin78" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+<table align="center">
+<tr>
+<td align="center" width="96">
+<a href="https://github.com/jonzin78">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   </a>
+<br>GitHub
+</td>
 
-  <a href="https://www.instagram.com/jon.c0de?igsh=MW8xNmVqaHNjbHo3ZA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram" />
+<td align="center" width="96">
+<a href="https://www.instagram.com/jon.c0de">
+<img src="https://cdn.simpleicons.org/instagram/FFFFFF" width="48" height="48" alt="Instagram" />
   </a>
+<br>Instagram
+</td>
 
-  <a href="mailto:jonathannyaguii@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email" />
+<td align="center" width="96">
+<a href="mailto:jonathannyaguii@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
-</p>
+<br>Gmail
+</td>
+</tr>
+</table>
+
+
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,threejs,wordpress,figma,ai,git,github,vscode,php" />
-</p>
+<table align="center">
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br>HTML
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br>CSS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+<br>Three.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+<br>WordPress
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+<br>Illustrator
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+
+</tr>
+
+</table>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
