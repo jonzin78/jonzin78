@@ -19,7 +19,7 @@ Creating modern, responsive, and interactive web experiences through clean code 
 
 <p align="center">
 
-  <img src="./assets/bh.gif" width="240" alt="Developer"/>
+  <img src="./assets/obtiyoandkakashi.gif" width="auto" alt="Developer"/>
 
 </p>
 
