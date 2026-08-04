@@ -15,12 +15,15 @@ Creating modern, responsive, and interactive web experiences through clean code 
 </p>
 
 
-##  <h2 align="center">🚀 About Me </h2>
+<h2 align="center">🚀 About Me</h2>
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+<p align="center">
 
+  <img src="./assets/bh.gif" width="240" alt="Developer"/>
+
+</p>
+
+<p align="center">
 **八木ジョナタン**です。
 
 トライデントコンピュータ専門学校のWebデザイン学科でWeb制作を学んでいる学生です。
@@ -39,15 +42,7 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 
 将来は、デザインの知識とプログラミング技術を活かし、ユーザーに良い体験を提供できるWebエンジニアを目指しています。
 
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<img src="./assets/bh.gif" width="280" alt="Developer Illustration"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 <h2 align="center">🤝 Connect with Me</h2>
 
