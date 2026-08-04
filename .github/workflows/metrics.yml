@@ -1,0 +1,21 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: jonzin78
+          base: ""
+          plugin_contributions: yes
+          plugin_contributions_calendar: yes
+          config_timezone: Asia/Tokyo
