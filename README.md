@@ -96,7 +96,7 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 <h2 align="center">⌘ Philosophy</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="auto" alt="Developer Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500" alt="Developer Quote"/>
 </p>
 
 
