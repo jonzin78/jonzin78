@@ -98,11 +98,6 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
 <br>TypeScript
 </td>
