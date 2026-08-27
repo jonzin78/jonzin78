@@ -131,11 +131,6 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 <br>Git
 </td>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-
 </tr>
 
 <tr>
@@ -145,6 +140,10 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 <br>PHP
 </td>
 
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
 </tr>
 
 </table>
