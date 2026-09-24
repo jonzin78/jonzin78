@@ -156,11 +156,6 @@ HTML、CSS、JavaScriptを中心に、Webサイト制作やフロントエンド
 
 </div>
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonzin78&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=false&hide_border=true&radius=16"/>
-</p>
 
 ### 
 <h2 align="center">⌘ Commit Activity</h2>
